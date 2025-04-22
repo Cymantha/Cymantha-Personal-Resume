@@ -1,0 +1,91 @@
+html{
+    background-color:#dff9ca ;
+}
+
+.box1{
+    width:1000px ;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.box1:hover{
+    width:1000px ;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: underline;
+}
+.box2{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    position: absolute top right;
+
+}
+
+.box2:hover{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    position: absolute top right;
+    text-decoration: underline;
+}
+.box3{
+    width:800px ;
+    border: 15px solid cadetblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.p2{
+    font-size: xx-large;
+    color: green;
+}
+.box4{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+}
+
+.box4:hover{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    text-decoration: underline;
+}
+.box5{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box5:hover{
+    width: 500px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: underline;
+}
+
+
+
+main{
+    font-family:"Cantata One", serif;
+    font-size:large;
+}
+
+html{
+    scroll-behavior: smooth;
+}
